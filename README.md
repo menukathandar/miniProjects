@@ -40,8 +40,7 @@
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url] -[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](Tailwind-URL) -[![Next UI](https://img.shields.io/badge/-Next_UI-000000?style=flat&logo=next.js&logoColor=white)](Next-UI-URL)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/docs) -[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/docs/getting-started.html) -[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](Tailwind-URL) -[![Next UI](https://img.shields.io/badge/-Next_UI-000000?style=flat&logo=next.js&logoColor=white)](Next-UI-URL)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
