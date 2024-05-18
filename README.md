@@ -82,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
 
 - [x] Random Quote Generator
 - [x] Add back to top links
-- [ ] Calculator
+- [x] Basic Calculator
 - [ ] Lottery Game
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
