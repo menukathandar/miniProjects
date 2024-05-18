@@ -81,7 +81,6 @@ This is an example of how to list things you need to use the software and how to
 ## Name of mini projects
 
 - [x] Random Quote Generator
-- [x] Add back to top links
 - [x] Basic Calculator
 - [ ] Lottery Game
 
